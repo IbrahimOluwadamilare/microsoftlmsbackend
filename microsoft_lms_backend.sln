@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "microsoft_lms_backend", "microsoft_lms_backend\microsoft_lms_backend.csproj", "{257FC81C-1644-4C50-9753-B86A5865DE9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "microsoft_lms_backend_test", "microsoft_lms_backend_test\microsoft_lms_backend_test.csproj", "{0B6BEBEF-2538-4544-BBF8-1C323FA94DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257FC81C-1644-4C50-9753-B86A5865DE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257FC81C-1644-4C50-9753-B86A5865DE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257FC81C-1644-4C50-9753-B86A5865DE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257FC81C-1644-4C50-9753-B86A5865DE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6BEBEF-2538-4544-BBF8-1C323FA94DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6BEBEF-2538-4544-BBF8-1C323FA94DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6BEBEF-2538-4544-BBF8-1C323FA94DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6BEBEF-2538-4544-BBF8-1C323FA94DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D29A6DD9-41A8-436A-A9C5-AC8EA4A0BFCF}
+	EndGlobalSection
+EndGlobal
